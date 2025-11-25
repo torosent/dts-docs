@@ -1,3 +1,11 @@
+---
+layout: default
+title: Container Deployment
+parent: Hosting
+nav_order: 1
+description: "Deploy to Docker, Azure Container Apps, and AKS"
+---
+
 # Container Deployment
 
 This guide covers deploying Durable Task SDK applications to containers using the Durable Task Scheduler, including Docker, Azure Container Apps (ACA), and Azure Kubernetes Service (AKS).

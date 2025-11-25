@@ -1,3 +1,10 @@
+---
+layout: default
+title: Core Concepts
+nav_order: 3
+description: "Core concepts of orchestrations, activities, and entities in the Durable Task SDK"
+---
+
 # Core Concepts
 
 This page describes the core concepts of the Durable Task SDK for .NET when used with the **Durable Task Scheduler**. Understanding these concepts is essential for building reliable, scalable workflows.

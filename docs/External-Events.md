@@ -1,3 +1,11 @@
+---
+layout: default
+title: External Events
+parent: Patterns
+nav_order: 4
+description: "Handle human interaction and external triggers in workflows"
+---
+
 # External Events (Human Interaction)
 
 Orchestrations can wait for external events, enabling human interaction patterns, approval workflows, and integration with external systems using **Durable Task Scheduler**.

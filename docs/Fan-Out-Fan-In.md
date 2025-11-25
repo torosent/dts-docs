@@ -1,3 +1,11 @@
+---
+layout: default
+title: Fan-Out/Fan-In
+parent: Patterns
+nav_order: 1
+description: "Execute multiple activities in parallel and aggregate results"
+---
+
 # Fan-Out/Fan-In Pattern
 
 The Fan-Out/Fan-In pattern is a powerful orchestration pattern that executes multiple activities in parallel and aggregates their results. This enables efficient parallel processing while maintaining the reliability guarantees of durable orchestrations with **Durable Task Scheduler**.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Orchestration Constraints
+nav_order: 4
+description: "Understanding determinism and constraints in durable orchestrations"
+---
+
 # Orchestration Constraints
 
 Orchestrations have specific constraints due to their replay-based execution model. Understanding and following these constraints is essential for building reliable durable workflows.

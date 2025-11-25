@@ -1,3 +1,11 @@
+---
+layout: default
+title: Automatic Retries
+parent: Error Handling
+nav_order: 2
+description: "Configure automatic retry policies for transient failures"
+---
+
 # Automatic Retries
 
 The Durable Task .NET SDK with **Durable Task Scheduler** provides built-in retry mechanisms for handling transient failures in activities and sub-orchestrations.

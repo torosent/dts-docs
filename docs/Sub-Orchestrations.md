@@ -1,3 +1,11 @@
+---
+layout: default
+title: Sub-Orchestrations
+parent: Patterns
+nav_order: 2
+description: "Compose complex workflows using sub-orchestrations"
+---
+
 # Sub-Orchestrations
 
 Sub-orchestrations allow you to compose complex workflows by calling other orchestrations from within an orchestration with **Durable Task Scheduler**. This enables code reuse, separation of concerns, and managing complexity in large workflows.

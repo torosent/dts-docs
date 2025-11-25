@@ -1,3 +1,11 @@
+---
+layout: default
+title: ASP.NET Core Integration
+parent: Hosting
+nav_order: 2
+description: "Host durable workflows in ASP.NET Core applications"
+---
+
 # ASP.NET Core Integration
 
 The Durable Task .NET SDK can be hosted in ASP.NET Core applications with **Durable Task Scheduler**, enabling you to build web applications and APIs with durable workflow capabilities.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Durable Entities
+parent: Development
+nav_order: 3
+description: "Working with durable entities for stateful programming"
+---
+
 # Durable Entities
 
 Durable Entities provide a way to define and manage small pieces of state that can be accessed and modified reliably. They are useful for scenarios requiring stateful, actor-like programming patterns with **Durable Task Scheduler**.

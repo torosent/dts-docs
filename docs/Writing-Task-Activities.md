@@ -1,3 +1,11 @@
+---
+layout: default
+title: Writing Task Activities
+parent: Development
+nav_order: 2
+description: "Learn how to write task activities with the Durable Task SDK"
+---
+
 # Writing Task Activities
 
 Task activities are the fundamental units of work in a Durable Task orchestration with **Durable Task Scheduler**. They perform the actual I/O and computation that orchestrations coordinate.

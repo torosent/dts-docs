@@ -1,3 +1,11 @@
+---
+layout: default
+title: Orchestration Versioning
+parent: Operations
+nav_order: 3
+description: "Safely version orchestrations with in-flight instances"
+---
+
 # Orchestration Versioning
 
 As your application evolves, you'll need to update orchestrations while existing instances are still running. This guide covers strategies for versioning orchestrations safely using the **Durable Task Scheduler SDK**.

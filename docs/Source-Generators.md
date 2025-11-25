@@ -1,3 +1,11 @@
+---
+layout: default
+title: Source Generators
+parent: Development
+nav_order: 4
+description: "Using source generators for compile-time validation"
+---
+
 # Source Generators
 
 The Durable Task .NET SDK includes source generators that reduce boilerplate code and provide compile-time validation for your orchestrations, activities, and entities with **Durable Task Scheduler**.

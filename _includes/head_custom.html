@@ -1,0 +1,21 @@
+<!-- Enable Mermaid diagrams -->
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  
+  const darkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  
+  mermaid.initialize({ 
+    startOnLoad: true,
+    theme: darkMode ? 'dark' : 'default',
+    securityLevel: 'loose',
+    flowchart: {
+      useMaxWidth: true,
+      htmlLabels: true
+    }
+  });
+  
+  // Re-render mermaid diagrams when the page loads
+  document.addEventListener('DOMContentLoaded', function() {
+    mermaid.contentLoaded();
+  });
+</script>

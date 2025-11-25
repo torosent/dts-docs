@@ -1,3 +1,11 @@
+---
+layout: default
+title: Instance Queries
+parent: Operations
+nav_order: 2
+description: "Query and filter orchestration instances"
+---
+
 # Instance Queries
 
 The Durable Task .NET SDK with **Durable Task Scheduler** provides powerful querying capabilities to find and filter orchestration instances. This enables building dashboards, management tools, and monitoring solutions.

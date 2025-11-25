@@ -1,3 +1,11 @@
+---
+layout: default
+title: DurableTaskClient API
+parent: API Reference
+nav_order: 1
+description: "Complete reference for the DurableTaskClient class"
+---
+
 # API Reference: DurableTaskClient
 
 The `DurableTaskClient` class is the primary interface for managing orchestration instances from external code. This page provides a comprehensive reference for all client methods.

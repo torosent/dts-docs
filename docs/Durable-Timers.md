@@ -1,3 +1,11 @@
+---
+layout: default
+title: Durable Timers
+parent: Patterns
+nav_order: 5
+description: "Use durable timers for delays and timeouts in workflows"
+---
+
 # Durable Timers
 
 Durable timers allow orchestrations to pause execution for a specified duration and resume automatically with **Durable Task Scheduler**. Unlike `Thread.Sleep` or `Task.Delay`, durable timers survive process restarts.

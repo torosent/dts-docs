@@ -1,3 +1,11 @@
+---
+layout: default
+title: Instance Management
+parent: Operations
+nav_order: 1
+description: "Start, query, terminate, and purge orchestration instances"
+---
+
 # Orchestration Instance Management
 
 The Durable Task .NET SDK provides comprehensive APIs for managing orchestration instances through the `DurableTaskClient` class with **Durable Task Scheduler**. This includes starting, querying, terminating, suspending, and purging orchestrations.

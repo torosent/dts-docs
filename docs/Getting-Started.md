@@ -1,3 +1,10 @@
+---
+layout: default
+title: Getting Started
+nav_order: 2
+description: "Getting started with the Durable Task SDK for .NET and Durable Task Scheduler"
+---
+
 # Getting Started
 
 This guide walks you through setting up the Durable Task SDK for .NET with the Durable Task Scheduler.

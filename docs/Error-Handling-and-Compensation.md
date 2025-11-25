@@ -1,3 +1,11 @@
+---
+layout: default
+title: Error Handling & Compensation
+parent: Error Handling
+nav_order: 1
+description: "Handle failures gracefully and implement compensation logic"
+---
+
 # Error Handling & Compensation
 
 Robust error handling is essential for building reliable workflows with **Durable Task Scheduler**. The Durable Task .NET SDK provides mechanisms to handle failures gracefully and implement compensation logic.

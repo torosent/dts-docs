@@ -1,3 +1,11 @@
+---
+layout: default
+title: Eternal Orchestrations
+parent: Patterns
+nav_order: 3
+description: "Create long-running monitoring and aggregation workflows"
+---
+
 # Eternal Orchestrations
 
 Eternal orchestrations run indefinitely by using `ContinueAsNew` to reset their state while preserving execution. This pattern is useful for monitoring, aggregation, and long-running background processes.

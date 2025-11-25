@@ -1,3 +1,11 @@
+---
+layout: default
+title: TaskOrchestrationContext API
+parent: API Reference
+nav_order: 2
+description: "Complete reference for the TaskOrchestrationContext class"
+---
+
 # API Reference: TaskOrchestrationContext
 
 The `TaskOrchestrationContext` provides the execution context for orchestrations, enabling interaction with activities, sub-orchestrations, timers, events, and entities.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Writing Task Orchestrations
+parent: Development
+nav_order: 1
+description: "Learn how to write task orchestrations with the Durable Task SDK"
+---
+
 # Writing Task Orchestrations
 
 Task orchestrations are the heart of the Durable Task .NET SDK. They define the workflow logic that coordinates activities, timers, external events, and sub-orchestrations with **Durable Task Scheduler**.

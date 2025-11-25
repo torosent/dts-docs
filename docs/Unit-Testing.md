@@ -1,3 +1,11 @@
+---
+layout: default
+title: Unit Testing
+parent: Testing & Diagnostics
+nav_order: 1
+description: "Write comprehensive tests for orchestrations and activities"
+---
+
 # Unit Testing
 
 The Durable Task .NET SDK provides testing utilities to help you write comprehensive tests for your orchestrations, activities, and entities.

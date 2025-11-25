@@ -1,3 +1,11 @@
+---
+layout: default
+title: Diagnostics and Logging
+parent: Testing & Diagnostics
+nav_order: 2
+description: "Monitor, debug, and troubleshoot your workflows"
+---
+
 # Diagnostics and Logging
 
 The Durable Task .NET SDK provides comprehensive diagnostics and logging capabilities to help you monitor, debug, and troubleshoot your orchestrations, activities, and entities.

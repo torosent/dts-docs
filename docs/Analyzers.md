@@ -1,3 +1,11 @@
+---
+layout: default
+title: Analyzers
+parent: Testing & Diagnostics
+nav_order: 3
+description: "Roslyn analyzers for detecting common mistakes"
+---
+
 # Analyzers
 
 The Durable Task .NET SDK includes Roslyn analyzers that help detect common mistakes and enforce best practices at compile time. These analyzers catch issues that would otherwise cause runtime failures.

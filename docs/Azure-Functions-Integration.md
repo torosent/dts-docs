@@ -1,3 +1,11 @@
+---
+layout: default
+title: Azure Functions Integration
+parent: Hosting
+nav_order: 3
+description: "Use Durable Task SDK with Azure Functions isolated worker"
+---
+
 # Azure Functions Integration
 
 The Durable Task .NET SDK integrates seamlessly with Azure Functions using the .NET isolated worker model. This guide covers setup, triggers, bindings, and best practices.
